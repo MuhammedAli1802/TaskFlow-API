@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "title": "API Endpoint Tasarımı",
+    "description": "Görev yönetimi için CRUD operasyonlarının kodlanması ve test edilmesi.",
+    "priority": "high",
+    "assignee": "Ali",
+    "status": "completed",
+    "createdAt": "2026-08-01T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Veritabanı Kurulumu",
+    "description": "PostgreSQL sunucusunun ayağa kaldırılması ve tabloların oluşturulması.",
+    "priority": "high",
+    "assignee": "Mehmet",
+    "status": "completed",
+    "createdAt": "2026-08-02T11:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Reviyo Veritabanı Migrasyonu",
+    "description": "Film ve kitap verilerinin yeni sunucuya aktarılması ve web scraping entegrasyonu.",
+    "priority": "high",
+    "assignee": "Ali",
+    "status": "in-progress",
+    "createdAt": "2026-08-05T09:15:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Bulgarca Dil Desteği Entegrasyonu",
+    "description": "Uygulama arayüzüne Bulgarca temel kelime ve günlük konuşma kalıplarının eklenmesi (i18n).",
+    "priority": "medium",
+    "assignee": "Ayşe",
+    "status": "pending",
+    "createdAt": "2026-08-10T14:20:00.000Z"
+  },
+  {
+    "id": 5,
+    "title": "Oyun Tahtası Algoritması",
+    "description": "Turizm mekaniklerine sahip strateji oyunu için Türkiye şehirlerinin tur ve sezonluk gelir hesaplamaları.",
+    "priority": "high",
+    "assignee": "Ali",
+    "status": "in-progress",
+    "createdAt": "2026-08-12T16:45:00.000Z"
+  },
+  {
+    "id": 6,
+    "title": "Cisco Router OSPF Konfigürasyonu",
+    "description": "Packet Tracer üzerinden ağ topolojisinin çıkarılması, VLAN trunking ve NAT ayarlarının yapılması.",
+    "priority": "medium",
+    "assignee": "Mehmet",
+    "status": "completed",
+    "createdAt": "2026-06-15T10:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "title": "Gülay Hoca Proje Raporu Teslimi",
+    "description": "Sistem mimarisi dokümanlarının, UI diyagramlarının ve kaynakçaların rapora eklenip teslim edilmesi.",
+    "priority": "high",
+    "assignee": "Ali",
+    "status": "completed",
+    "createdAt": "2026-06-20T13:30:00.000Z"
+  },
+  {
+    "id": 8,
+    "title": "Bookcomplete Netlify Deployment",
+    "description": "React tabanlı kitap takip uygulamasının build alınması ve Netlify üzerinden yayına alınması.",
+    "priority": "medium",
+    "assignee": "Zeynep",
+    "status": "completed",
+    "createdAt": "2026-08-08T09:00:00.000Z"
+  },
+  {
+    "id": 9,
+    "title": "React Native UI Güncellemesi",
+    "description": "Mobil uygulama arayüzündeki butonların ve navigasyon yapısının iyileştirilmesi.",
+    "priority": "low",
+    "assignee": "Fatma",
+    "status": "pending",
+    "createdAt": "2026-08-14T11:10:00.000Z"
+  },
+  {
+    "id": 10,
+    "title": "Sunucu Güvenlik Yamaları",
+    "description": "Ubuntu sunucudaki SSL sertifikalarının yenilenmesi ve firewall kurallarının güncellenmesi.",
+    "priority": "high",
+    "assignee": "Can",
+    "status": "in-progress",
+    "createdAt": "2026-08-15T15:20:00.000Z"
+  },
+  {
+    "id": 11,
+    "title": "Kullanıcı Giriş Ekranı (Login)",
+    "description": "JWT kullanılarak güvenli kullanıcı giriş altyapısının hazırlanması.",
+    "priority": "high",
+    "assignee": "Ayşe",
+    "status": "completed",
+    "createdAt": "2026-07-01T08:30:00.000Z"
+  },
+  {
+    "id": 12,
+    "title": "Logo Tasarımı",
+    "description": "Yeni topluluk uygulaması için vektörel logo alternatiflerinin hazırlanması.",
+    "priority": "low",
+    "assignee": "Zeynep",
+    "status": "completed",
+    "createdAt": "2026-05-10T14:00:00.000Z"
+  },
+  {
+    "id": 13,
+    "title": "Google Books API Entegrasyonu",
+    "description": "Kitap arama modülü için dış API bağlantılarının kurulması ve state yönetimi.",
+    "priority": "medium",
+    "assignee": "Ali",
+    "status": "completed",
+    "createdAt": "2026-08-01T16:00:00.000Z"
+  },
+  {
+    "id": 14,
+    "title": "Şifre Sıfırlama Maili",
+    "description": "Kullanıcıların şifrelerini unuttuklarında gidecek olan HTML mail şablonunun kodlanması.",
+    "priority": "low",
+    "assignee": "Fatma",
+    "status": "pending",
+    "createdAt": "2026-08-16T10:45:00.000Z"
+  },
+  {
+    "id": 15,
+    "title": "Performans Optimizasyonu",
+    "description": "Frontend tarafındaki gereksiz render işlemlerinin engellenmesi ve Vite konfigürasyonu.",
+    "priority": "medium",
+    "assignee": "Mehmet",
+    "status": "in-progress",
+    "createdAt": "2026-08-17T09:30:00.000Z"
+  },
+  {
+    "id": 16,
+    "title": "C# ASP.NET Core Middleware",
+    "description": "Hata yakalama (Exception Handling) katmanının backend servisine eklenmesi.",
+    "priority": "high",
+    "assignee": "Ali",
+    "status": "completed",
+    "createdAt": "2026-04-12T11:00:00.000Z"
+  },
+  {
+    "id": 17,
+    "title": "Müşteri Geri Bildirim Formu",
+    "description": "İletişim sayfası için yeni geri bildirim formunun UI tarafına eklenmesi.",
+    "priority": "low",
+    "assignee": "Zeynep",
+    "status": "pending",
+    "createdAt": "2026-08-18T13:20:00.000Z"
+  },
+  {
+    "id": 18,
+    "title": "Ödeme Sistemi API Entegrasyonu",
+    "description": "Stripe üzerinden kredi kartı tahsilat altyapısının backend'e bağlanması.",
+    "priority": "high",
+    "assignee": "Can",
+    "status": "in-progress",
+    "createdAt": "2026-08-18T15:00:00.000Z"
+  },
+  {
+    "id": 19,
+    "title": "GitHub README Güncellemesi",
+    "description": "Açık kaynaklı projenin kurulum adımlarının markdown formatında detaylandırılması.",
+    "priority": "low",
+    "assignee": "Ayşe",
+    "status": "completed",
+    "createdAt": "2026-08-05T17:10:00.000Z"
+  },
+  {
+    "id": 20,
+    "title": "Sunucu Log Analizi",
+    "description": "Geçen haftaki 500 hatalarının sunucu loglarından incelenmesi ve raporlanması.",
+    "priority": "medium",
+    "assignee": "Mehmet",
+    "status": "pending",
+    "createdAt": "2026-08-19T09:00:00.000Z"
+  },
+  {
+    "id": 21,
+    "title": "Karanlık Tema (Dark Mode)",
+    "description": "Web uygulamasına CSS değişkenleri kullanılarak karanlık tema desteğinin eklenmesi.",
+    "priority": "medium",
+    "assignee": "Fatma",
+    "status": "in-progress",
+    "createdAt": "2026-08-19T11:30:00.000Z"
+  },
+  {
+    "id": 22,
+    "title": "Veri Yedekleme Scripti",
+    "description": "Her gece saat 03:00'te veritabanının yedeğini alacak cron job'ın yazılması.",
+    "priority": "high",
+    "assignee": "Can",
+    "status": "pending",
+    "createdAt": "2026-08-20T08:00:00.000Z"
+  },
+  {
+    "id": 23,
+    "title": "Android Studio Emulator Ayarları",
+    "description": "Yeni proje için sanal cihaz konfigürasyonlarının ve JDK 17 ortamının kurulması.",
+    "priority": "medium",
+    "assignee": "Ali",
+    "status": "completed",
+    "createdAt": "2026-02-15T10:00:00.000Z"
+  },
+  {
+    "id": 24,
+    "title": "404 Sayfası Tasarımı",
+    "description": "Bulunamayan sayfalar için kullanıcı dostu ve eğlenceli bir 404 sayfası yapılması.",
+    "priority": "low",
+    "assignee": "Zeynep",
+    "status": "in-progress",
+    "createdAt": "2026-08-20T10:15:00.000Z"
+  },
+  {
+    "id": 25,
+    "title": "Docker Compose Dosyası",
+    "description": "Tüm servisleri tek tıkla ayağa kaldırmak için docker-compose.yml dosyasının hazırlanması.",
+    "priority": "high",
+    "assignee": "Mehmet",
+    "status": "pending",
+    "createdAt": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "id": 26,
+    "title": "Kullanıcı Rolleri (RBAC)",
+    "description": "Admin, Editor ve User yetkilendirme altyapısının sisteme entegre edilmesi.",
+    "priority": "high",
+    "assignee": "Ayşe",
+    "status": "in-progress",
+    "createdAt": "2026-08-10T09:00:00.000Z"
+  },
+  {
+    "id": 27,
+    "title": "Arama Çubuğu Debounce İşlemi",
+    "description": "Frontend'de kullanıcı yazı yazarken API'ye gereksiz istek atılmasını engelleyecek fonksiyon.",
+    "priority": "medium",
+    "assignee": "Fatma",
+    "status": "completed",
+    "createdAt": "2026-07-25T14:30:00.000Z"
+  },
+  {
+    "id": 28,
+    "title": "MVC Repository Pattern Entegrasyonu",
+    "description": "Backend servislerinde veri erişim katmanının daha düzenli hale getirilmesi.",
+    "priority": "high",
+    "assignee": "Ali",
+    "status": "completed",
+    "createdAt": "2026-03-10T16:00:00.000Z"
+  },
+  {
+    "id": 29,
+    "title": "Bülten Aboneliği Endpoint'i",
+    "description": "E-posta bültenine kayıt olacak kullanıcılar için basit bir POST rotası yazılması.",
+    "priority": "low",
+    "assignee": "Can",
+    "status": "pending",
+    "createdAt": "2026-08-19T16:45:00.000Z"
+  },
+  {
+    "id": 30,
+    "title": "Mobil Bildirimler (Push Notifications)",
+    "description": "React Native uygulamasında Firebase kullanılarak anlık bildirim sisteminin kurulması.",
+    "priority": "medium",
+    "assignee": "Ali",
+    "status": "in-progress",
+    "createdAt": "2026-05-22T10:00:00.000Z"
+  },
+  {
+    "id": 31,
+    "title": "Uygulama İkonlarının Küçültülmesi",
+    "description": "Sitede kullanılan PNG görsellerinin WebP formatına çevrilerek optimize edilmesi.",
+    "priority": "low",
+    "assignee": "Zeynep",
+    "status": "completed",
+    "createdAt": "2026-06-05T13:15:00.000Z"
+  },
+  {
+    "id": 32,
+    "title": "API Rate Limiting",
+    "description": "DDoS saldırılarını engellemek için middleware kullanılarak istek sınırlaması getirilmesi.",
+    "priority": "high",
+    "assignee": "Mehmet",
+    "status": "pending",
+    "createdAt": "2026-08-20T14:00:00.000Z"
+  },
+  {
+    "id": 33,
+    "title": "Local Storage Sepet İşlemleri",
+    "description": "Kullanıcı sepetine ürün eklediğinde verilerin tarayıcı önbelleğine kaydedilmesi.",
+    "priority": "medium",
+    "assignee": "Ayşe",
+    "status": "completed",
+    "createdAt": "2026-07-15T09:45:00.000Z"
+  },
+  {
+    "id": 34,
+    "title": "Taşıt Geçiş Ücreti Mekaniği",
+    "description": "Strateji oyunu için oyuncu istasyonlara geldiğinde çalışacak vergi/geçiş fonksiyonu.",
+    "priority": "medium",
+    "assignee": "Ali",
+    "status": "pending",
+    "createdAt": "2026-07-22T11:00:00.000Z"
+  },
+  {
+    "id": 35,
+    "title": "API Dokümantasyonu (Swagger)",
+    "description": "Tüm uç noktaların test edilebilmesi için Swagger arayüzünün kurulması.",
+    "priority": "medium",
+    "assignee": "Fatma",
+    "status": "in-progress",
+    "createdAt": "2026-08-19T15:30:00.000Z"
+  }
+]
