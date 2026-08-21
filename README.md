@@ -32,7 +32,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
    
 
 
-   🛠️ API Kullanım Kılavuzu ve Endpoint'ler
+🛠️ API Kullanım Kılavuzu ve Endpoint'ler
 
 1. Temel CRUD Operasyonları
 
